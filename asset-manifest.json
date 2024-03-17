@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.c7ec3132.css",
-    "main.js": "/react-homework-template/static/js/main.311d7ef2.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.c7ec3132.css.map": "/react-homework-template/static/css/main.c7ec3132.css.map",
-    "main.311d7ef2.js.map": "/react-homework-template/static/js/main.311d7ef2.js.map"
+    "main.css": "/crypto-portfolio/static/css/main.c7ec3132.css",
+    "main.js": "/crypto-portfolio/static/js/main.311d7ef2.js",
+    "index.html": "/crypto-portfolio/index.html",
+    "main.c7ec3132.css.map": "/crypto-portfolio/static/css/main.c7ec3132.css.map",
+    "main.311d7ef2.js.map": "/crypto-portfolio/static/js/main.311d7ef2.js.map"
   },
   "entrypoints": [
     "static/css/main.c7ec3132.css",
